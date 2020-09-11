@@ -11,3 +11,7 @@ dwm draws a small customizable border around windows to indicate the focus state
 ## Personalización
 
 dwm es personalizado mediante el archivo de configuración `config.h`, un archivo de cabecera `.h` de C.
+
+## Dependencias
+
+	sudo pacman -S dmenu
